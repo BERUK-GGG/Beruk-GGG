@@ -1,6 +1,6 @@
 ## Beruk Gebru
 
-Computer Engineering graduate working in cybersecurity, with a focus on penetration testing, network security and infrastructure. Currently studying AI and automation at University West.
+Computer Engineering graduate with a focus on cybersecurity, networking and infrastructure. Currently studying Masters in AI and automation at University West.
 
 [Website](https://berukgebru.com) · [LinkedIn](https://www.linkedin.com/in/beruk-gebru-b26854265) · [CTF Writeups](https://berukgebru.com/ctf/)
 
